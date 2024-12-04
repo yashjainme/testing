@@ -1,0 +1,2 @@
+This is a rectangle file.
+// Write code here
